@@ -49,14 +49,4 @@ python main.py
 4. View your productivity patterns in the graphs section
 5. Use the insights to optimize your workflow
 
-## Contributing
 
-Contributions are welcome! Please feel free to submit a Pull Request.
-
-## License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
-
-## Support
-
-If you encounter any issues or have questions, please open an issue on GitHub.
