@@ -1,0 +1,7 @@
+opencv-python
+keyboard
+mouse
+psutil
+ttkbootstrap
+matplotlib
+PyQt5>=5.15.0
