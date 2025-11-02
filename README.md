@@ -1,4 +1,4 @@
-# FocusFusion Tabs & Graphs - A productivity tool for managing tasks and visualizing progress through interactive tabs and graphs
+# FocusFusion - A productivity tool for managing tasks and visualizing progress through interactive tabs and graphs
 
 FocusFusion is a modern desktop application that helps you boost productivity and maintain focus by combining task management with visual progress tracking.
 
